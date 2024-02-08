@@ -1,0 +1,11 @@
+.card {
+    display: flex;
+    width: auto;
+    cursor: pointer;
+    margin: 20px 300px 20px 300px;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
